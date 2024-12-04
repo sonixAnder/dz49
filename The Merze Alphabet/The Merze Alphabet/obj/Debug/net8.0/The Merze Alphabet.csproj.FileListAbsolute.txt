@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\bin\Debug\net8.0\The Merze Alphabet.exe
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\bin\Debug\net8.0\The Merze Alphabet.deps.json
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\bin\Debug\net8.0\The Merze Alphabet.runtimeconfig.json
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\bin\Debug\net8.0\The Merze Alphabet.dll
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\bin\Debug\net8.0\The Merze Alphabet.pdb
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\obj\Debug\net8.0\The Merze Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\obj\Debug\net8.0\The Merze Alphabet.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\obj\Debug\net8.0\The Merze Alphabet.AssemblyInfo.cs
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\obj\Debug\net8.0\The Merze Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\obj\Debug\net8.0\The Merze Alphabet.dll
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\obj\Debug\net8.0\refint\The Merze Alphabet.dll
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\obj\Debug\net8.0\The Merze Alphabet.pdb
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\obj\Debug\net8.0\The Merze Alphabet.genruntimeconfig.cache
+C:\Users\student\Desktop\The Merze Alphabet\The Merze Alphabet\obj\Debug\net8.0\ref\The Merze Alphabet.dll
